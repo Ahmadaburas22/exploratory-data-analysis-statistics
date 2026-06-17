@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍷 Exploratory Data Analysis Statistics & Statistical Testing
+#  Exploratory Data Analysis Statistics & Statistical Testing
 
 ### Exploratory Data Analysis and Hypothesis Testing Project using Python
 
